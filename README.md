@@ -1,16 +1,7 @@
 # 🌤️ PowerBI-Weather-Dashboard
 A Power BI report visualizing a 7-day weather forecast with AQI data, sunrise/sunset, wind, and more.This Power BI project showcases a dynamic weather forecasting dashboard, pulling live data from WeatherAPI and visualizing multiple weather metrics across several cities in India.
 
----
-## 📍 Covered Cities
-- Kolkata
-- ![Uploading Kolkata_Report.png…]()
-- Kannur
-- ![Uploading Kannur_Report.png…]()
 
-- Leh
-- (Extendable to other cities via API)
----
 
 ## 📊 Key Features
 
@@ -25,13 +16,6 @@ A Power BI report visualizing a 7-day weather forecast with AQI data, sunrise/su
 - 🔄 **Real-Time Weather Data** from [WeatherAPI](https://www.weatherapi.com/)
 
 ---
-
-## 🛠 Tools & Technologies
-
-- **Power BI Desktop**
-- **Power Query M Language**
-- **DAX** for calculated metrics
-- **WeatherAPI JSON Endpoint**:  
 
 
 ## 📂 File
